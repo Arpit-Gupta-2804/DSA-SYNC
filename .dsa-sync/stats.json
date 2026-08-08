@@ -1,0 +1,28 @@
+{
+  "difficulty": {
+    "Easy": 2,
+    "Hard": 0,
+    "Medium": 1
+  },
+  "languages": {
+    "Java": 3
+  },
+  "platforms": {
+    "gfg": 0,
+    "leetcode": 3
+  },
+  "solvedProblems": [
+    "Leetcode/Hash Table/valid-anagram.java",
+    "Leetcode/Hash Table/two-sum.java",
+    "Leetcode/Array/rotting-oranges.java"
+  ],
+  "topics": {
+    "Array": 2,
+    "Breadth-First Search": 1,
+    "Hash Table": 2,
+    "Matrix": 1,
+    "Sorting": 1,
+    "String": 1
+  },
+  "totalSolved": 3
+}
