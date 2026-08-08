@@ -20,13 +20,13 @@
   "topics": {
     "Array": 2,
     "Breadth-First Search": 2,
+    "Depth-First Search": 1,
+    "Graph Theory": 1,
     "Hash Table": 2,
     "Matrix": 1,
     "Sorting": 1,
     "String": 1,
-    "Depth-First Search": 1,
-    "Union-Find": 1,
-    "Graph Theory": 1
+    "Union-Find": 1
   },
   "totalSolved": 4
 }
