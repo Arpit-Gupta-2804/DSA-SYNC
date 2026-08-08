@@ -2,27 +2,31 @@
   "difficulty": {
     "Easy": 2,
     "Hard": 0,
-    "Medium": 1
+    "Medium": 2
   },
   "languages": {
-    "Java": 3
+    "Java": 4
   },
   "platforms": {
     "gfg": 0,
-    "leetcode": 3
+    "leetcode": 4
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
     "Leetcode/Hash Table/two-sum.java",
-    "Leetcode/Array/rotting-oranges.java"
+    "Leetcode/Array/rotting-oranges.java",
+    "Leetcode/General/number-of-provinces.java"
   ],
   "topics": {
     "Array": 2,
-    "Breadth-First Search": 1,
+    "Breadth-First Search": 2,
     "Hash Table": 2,
     "Matrix": 1,
     "Sorting": 1,
-    "String": 1
+    "String": 1,
+    "Depth-First Search": 1,
+    "Union-Find": 1,
+    "Graph Theory": 1
   },
-  "totalSolved": 3
+  "totalSolved": 4
 }
