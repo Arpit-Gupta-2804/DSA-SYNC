@@ -21,9 +21,9 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Hash Table | 2 |
 | Matrix | 2 |
 | Union-Find | 2 |
+| Math | 1 |
 | Sorting | 1 |
 | String | 1 |
-| Math | 1 |
 
 ## Progress
     
