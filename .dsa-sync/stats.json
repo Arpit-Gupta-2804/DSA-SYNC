@@ -2,14 +2,14 @@
   "difficulty": {
     "Easy": 3,
     "Hard": 0,
-    "Medium": 4
+    "Medium": 5
   },
   "languages": {
-    "Java": 7
+    "Java": 8
   },
   "platforms": {
     "gfg": 0,
-    "leetcode": 7
+    "leetcode": 8
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -18,10 +18,11 @@
     "Leetcode/General/number-of-provinces.java",
     "Leetcode/Graph Theory/number-of-provinces.java",
     "Leetcode/Breadth-First Search/rotting-oranges.java",
-    "Leetcode/General/palindrome-number.java"
+    "Leetcode/General/palindrome-number.java",
+    "Leetcode/Dynamic Programming/maximum-subarray.java"
   ],
   "topics": {
-    "Array": 3,
+    "Array": 4,
     "Breadth-First Search": 4,
     "Depth-First Search": 2,
     "Graph Theory": 2,
@@ -30,7 +31,9 @@
     "Matrix": 2,
     "Sorting": 1,
     "String": 1,
-    "Union-Find": 2
+    "Union-Find": 2,
+    "Divide and Conquer": 1,
+    "Dynamic Programming": 1
   },
-  "totalSolved": 7
+  "totalSolved": 8
 }
