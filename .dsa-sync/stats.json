@@ -26,11 +26,11 @@
     "Depth-First Search": 2,
     "Graph Theory": 2,
     "Hash Table": 2,
+    "Math": 1,
     "Matrix": 2,
     "Sorting": 1,
     "String": 1,
-    "Union-Find": 2,
-    "Math": 1
+    "Union-Find": 2
   },
   "totalSolved": 7
 }
