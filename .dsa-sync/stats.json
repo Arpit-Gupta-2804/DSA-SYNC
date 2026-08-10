@@ -5,11 +5,11 @@
     "Medium": 5
   },
   "languages": {
-    "Java": 8,
-    "C++": 1
+    "C++": 2,
+    "Java": 8
   },
   "platforms": {
-    "gfg": 1,
+    "gfg": 2,
     "leetcode": 8
   },
   "solvedProblems": [
@@ -21,7 +21,8 @@
     "Leetcode/Breadth-First Search/rotting-oranges.java",
     "Leetcode/General/palindrome-number.java",
     "Leetcode/Dynamic Programming/maximum-subarray.java",
-    "GFG/Mathematical/unknown-problem.cpp"
+    "GFG/Mathematical/unknown-problem.cpp",
+    "GFG/Mathematical/gcd-of-two-numbers.cpp"
   ],
   "topics": {
     "Array": 4,
@@ -32,11 +33,11 @@
     "Graph Theory": 2,
     "Hash Table": 2,
     "Math": 1,
+    "Mathematical": 2,
     "Matrix": 2,
     "Sorting": 1,
     "String": 1,
-    "Union-Find": 2,
-    "Mathematical": 1
+    "Union-Find": 2
   },
-  "totalSolved": 9
+  "totalSolved": 10
 }
