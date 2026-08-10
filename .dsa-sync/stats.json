@@ -5,10 +5,11 @@
     "Medium": 5
   },
   "languages": {
-    "Java": 8
+    "Java": 8,
+    "C++": 1
   },
   "platforms": {
-    "gfg": 0,
+    "gfg": 1,
     "leetcode": 8
   },
   "solvedProblems": [
@@ -19,12 +20,15 @@
     "Leetcode/Graph Theory/number-of-provinces.java",
     "Leetcode/Breadth-First Search/rotting-oranges.java",
     "Leetcode/General/palindrome-number.java",
-    "Leetcode/Dynamic Programming/maximum-subarray.java"
+    "Leetcode/Dynamic Programming/maximum-subarray.java",
+    "GFG/Mathematical/unknown-problem.cpp"
   ],
   "topics": {
     "Array": 4,
     "Breadth-First Search": 4,
     "Depth-First Search": 2,
+    "Divide and Conquer": 1,
+    "Dynamic Programming": 1,
     "Graph Theory": 2,
     "Hash Table": 2,
     "Math": 1,
@@ -32,8 +36,7 @@
     "Sorting": 1,
     "String": 1,
     "Union-Find": 2,
-    "Divide and Conquer": 1,
-    "Dynamic Programming": 1
+    "Mathematical": 1
   },
-  "totalSolved": 8
+  "totalSolved": 9
 }
