@@ -6,10 +6,10 @@
   },
   "languages": {
     "C++": 2,
-    "Java": 8
+    "Java": 9
   },
   "platforms": {
-    "gfg": 2,
+    "gfg": 3,
     "leetcode": 8
   },
   "solvedProblems": [
@@ -22,7 +22,8 @@
     "Leetcode/General/palindrome-number.java",
     "Leetcode/Dynamic Programming/maximum-subarray.java",
     "GFG/Mathematical/unknown-problem.cpp",
-    "GFG/Mathematical/gcd-of-two-numbers.cpp"
+    "GFG/Mathematical/gcd-of-two-numbers.cpp",
+    "GFG/Mathematical/gcd-of-two-numbers.java"
   ],
   "topics": {
     "Array": 4,
@@ -33,11 +34,11 @@
     "Graph Theory": 2,
     "Hash Table": 2,
     "Math": 1,
-    "Mathematical": 2,
+    "Mathematical": 3,
     "Matrix": 2,
     "Sorting": 1,
     "String": 1,
     "Union-Find": 2
   },
-  "totalSolved": 10
+  "totalSolved": 11
 }
