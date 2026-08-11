@@ -2,14 +2,14 @@
   "difficulty": {
     "Easy": 3,
     "Hard": 0,
-    "Medium": 5
+    "Medium": 6
   },
   "languages": {
     "C++": 2,
-    "Java": 9
+    "Java": 10
   },
   "platforms": {
-    "gfg": 3,
+    "gfg": 4,
     "leetcode": 8
   },
   "solvedProblems": [
@@ -23,7 +23,8 @@
     "Leetcode/Dynamic Programming/maximum-subarray.java",
     "GFG/Mathematical/unknown-problem.cpp",
     "GFG/Mathematical/gcd-of-two-numbers.cpp",
-    "GFG/Mathematical/gcd-of-two-numbers.java"
+    "GFG/Mathematical/gcd-of-two-numbers.java",
+    "GFG/Arrays/maximum-point-you-can-obtain-from-cards.java"
   ],
   "topics": {
     "Array": 4,
@@ -38,7 +39,8 @@
     "Matrix": 2,
     "Sorting": 1,
     "String": 1,
-    "Union-Find": 2
+    "Union-Find": 2,
+    "Arrays": 1
   },
-  "totalSolved": 11
+  "totalSolved": 12
 }
