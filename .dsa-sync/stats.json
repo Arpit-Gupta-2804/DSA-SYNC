@@ -2,15 +2,15 @@
   "difficulty": {
     "Easy": 3,
     "Hard": 0,
-    "Medium": 7
+    "Medium": 8
   },
   "languages": {
     "C++": 2,
-    "Java": 11
+    "Java": 12
   },
   "platforms": {
     "gfg": 4,
-    "leetcode": 9
+    "leetcode": 10
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -25,7 +25,8 @@
     "GFG/Mathematical/gcd-of-two-numbers.cpp",
     "GFG/Mathematical/gcd-of-two-numbers.java",
     "GFG/Arrays/maximum-point-you-can-obtain-from-cards.java",
-    "Leetcode/Sliding Window/maximum-points-you-can-obtain-from-cards.java"
+    "Leetcode/Sliding Window/maximum-points-you-can-obtain-from-cards.java",
+    "Leetcode/Sliding Window/longest-substring-without-repeating-characters.java"
   ],
   "topics": {
     "Array": 5,
@@ -35,15 +36,15 @@
     "Divide and Conquer": 1,
     "Dynamic Programming": 1,
     "Graph Theory": 2,
-    "Hash Table": 2,
+    "Hash Table": 3,
     "Math": 1,
     "Mathematical": 3,
     "Matrix": 2,
+    "Prefix Sum": 1,
+    "Sliding Window": 2,
     "Sorting": 1,
-    "String": 1,
-    "Union-Find": 2,
-    "Sliding Window": 1,
-    "Prefix Sum": 1
+    "String": 2,
+    "Union-Find": 2
   },
-  "totalSolved": 13
+  "totalSolved": 14
 }
