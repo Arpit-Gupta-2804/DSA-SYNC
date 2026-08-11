@@ -9,13 +9,13 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Language | Problems Solved |
 |:---------|----------------:|
 | C++ | 2 |
-| Java | 10 |
+| Java | 11 |
 
 ## Topics
 
 | Topic | Problems Solved |
 | :------|----------------:|
-| Array | 4 |
+| Array | 5 |
 | Breadth-First Search | 4 |
 | Mathematical | 3 |
 | Depth-First Search | 2 |
@@ -23,20 +23,22 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Hash Table | 2 |
 | Matrix | 2 |
 | Union-Find | 2 |
+| Arrays | 1 |
 | Divide and Conquer | 1 |
 | Dynamic Programming | 1 |
 | Math | 1 |
 | Sorting | 1 |
 | String | 1 |
-| Arrays | 1 |
+| Sliding Window | 1 |
+| Prefix Sum | 1 |
 
 ## Progress
     
 | Platform | Problems Solved | 
 | :---------|----------------:|
 | gfg | 4 |
-| leetcode | 8 |
-| **Total** | **12** |
+| leetcode | 9 |
+| **Total** | **13** |
 
 ## Difficulty
     
@@ -44,7 +46,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 |:-----------|----------------|
 | Easy | 3 |
 | Hard | 0 |
-| Medium | 6 |
-| **Total** | **12** |
+| Medium | 7 |
+| **Total** | **13** |
 
 <!-- DSA-SYNC:STATS:END -->
