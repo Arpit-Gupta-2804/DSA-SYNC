@@ -28,10 +28,10 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Arrays | 1 |
 | Divide and Conquer | 1 |
 | Dynamic Programming | 1 |
+| Graph | 1 |
 | Math | 1 |
 | Prefix Sum | 1 |
 | Sorting | 1 |
-| Graph | 1 |
 
 ## Progress
     
