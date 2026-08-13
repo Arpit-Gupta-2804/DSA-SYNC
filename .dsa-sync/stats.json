@@ -2,14 +2,14 @@
   "difficulty": {
     "Easy": 3,
     "Hard": 0,
-    "Medium": 12
+    "Medium": 13
   },
   "languages": {
     "C++": 2,
-    "Java": 16
+    "Java": 17
   },
   "platforms": {
-    "gfg": 5,
+    "gfg": 6,
     "leetcode": 13
   },
   "solvedProblems": [
@@ -30,7 +30,8 @@
     "Leetcode/Sliding Window/length-of-longest-subarray-with-at-most-k-frequency.java",
     "GFG/Graph/topological-sort.java",
     "Leetcode/Graph Theory/course-schedule.java",
-    "Leetcode/Graph Theory/course-schedule-ii.java"
+    "Leetcode/Graph Theory/course-schedule-ii.java",
+    "GFG/Graph/shortest-path-in-directed-acyclic-graph.java"
   ],
   "topics": {
     "Array": 6,
@@ -40,7 +41,7 @@
     "Directed Acyclic Graph": 1,
     "Divide and Conquer": 1,
     "Dynamic Programming": 1,
-    "Graph": 1,
+    "Graph": 2,
     "Graph Theory": 4,
     "Hash Table": 4,
     "Math": 1,
@@ -53,5 +54,5 @@
     "Topological Sort": 2,
     "Union-Find": 2
   },
-  "totalSolved": 18
+  "totalSolved": 19
 }
