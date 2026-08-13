@@ -37,6 +37,7 @@
     "Depth-First Search": 2,
     "Divide and Conquer": 1,
     "Dynamic Programming": 1,
+    "Graph": 1,
     "Graph Theory": 2,
     "Hash Table": 4,
     "Math": 1,
@@ -46,8 +47,7 @@
     "Sliding Window": 3,
     "Sorting": 1,
     "String": 2,
-    "Union-Find": 2,
-    "Graph": 1
+    "Union-Find": 2
   },
   "totalSolved": 16
 }
