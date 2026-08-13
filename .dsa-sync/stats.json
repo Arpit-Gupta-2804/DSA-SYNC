@@ -2,14 +2,14 @@
   "difficulty": {
     "Easy": 3,
     "Hard": 0,
-    "Medium": 9
+    "Medium": 10
   },
   "languages": {
     "C++": 2,
-    "Java": 13
+    "Java": 14
   },
   "platforms": {
-    "gfg": 4,
+    "gfg": 5,
     "leetcode": 11
   },
   "solvedProblems": [
@@ -27,7 +27,8 @@
     "GFG/Arrays/maximum-point-you-can-obtain-from-cards.java",
     "Leetcode/Sliding Window/maximum-points-you-can-obtain-from-cards.java",
     "Leetcode/Sliding Window/longest-substring-without-repeating-characters.java",
-    "Leetcode/Sliding Window/length-of-longest-subarray-with-at-most-k-frequency.java"
+    "Leetcode/Sliding Window/length-of-longest-subarray-with-at-most-k-frequency.java",
+    "GFG/Graph/topological-sort.java"
   ],
   "topics": {
     "Array": 6,
@@ -45,7 +46,8 @@
     "Sliding Window": 3,
     "Sorting": 1,
     "String": 2,
-    "Union-Find": 2
+    "Union-Find": 2,
+    "Graph": 1
   },
-  "totalSolved": 15
+  "totalSolved": 16
 }
