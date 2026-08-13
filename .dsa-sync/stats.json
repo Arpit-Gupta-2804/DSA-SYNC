@@ -2,15 +2,15 @@
   "difficulty": {
     "Easy": 3,
     "Hard": 0,
-    "Medium": 11
+    "Medium": 12
   },
   "languages": {
     "C++": 2,
-    "Java": 15
+    "Java": 16
   },
   "platforms": {
     "gfg": 5,
-    "leetcode": 12
+    "leetcode": 13
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -29,17 +29,19 @@
     "Leetcode/Sliding Window/longest-substring-without-repeating-characters.java",
     "Leetcode/Sliding Window/length-of-longest-subarray-with-at-most-k-frequency.java",
     "GFG/Graph/topological-sort.java",
-    "Leetcode/Graph Theory/course-schedule.java"
+    "Leetcode/Graph Theory/course-schedule.java",
+    "Leetcode/Graph Theory/course-schedule-ii.java"
   ],
   "topics": {
     "Array": 6,
     "Arrays": 1,
-    "Breadth-First Search": 5,
-    "Depth-First Search": 3,
+    "Breadth-First Search": 6,
+    "Depth-First Search": 4,
+    "Directed Acyclic Graph": 1,
     "Divide and Conquer": 1,
     "Dynamic Programming": 1,
     "Graph": 1,
-    "Graph Theory": 3,
+    "Graph Theory": 4,
     "Hash Table": 4,
     "Math": 1,
     "Mathematical": 3,
@@ -48,9 +50,8 @@
     "Sliding Window": 3,
     "Sorting": 1,
     "String": 2,
-    "Union-Find": 2,
-    "Topological Sort": 1,
-    "Directed Acyclic Graph": 1
+    "Topological Sort": 2,
+    "Union-Find": 2
   },
-  "totalSolved": 17
+  "totalSolved": 18
 }
