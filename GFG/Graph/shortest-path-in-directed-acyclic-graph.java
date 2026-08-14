@@ -32,3 +32,34 @@ class Solution {
                     dist[neighNode] = w + weight;
                 }else{
                     dist[neighNode] = Math.min(dist[neighNode], w + weight);
+                }
+            }
+        }
+        for(int i=0; i<dist.length; i++){
+            res.add(dist[i]);
+        }
+        return res;
+    }
+    
+    public static void topoSort(int node, boolean [] visited, ArrayList<ArrayList<Pair>> adj,
+        Stack<Integer> st){
+        visited[node] = true;
+        for(Pair neigh : adj.get(node)){
+            int neighNode = neigh.n;
+            int weight = neigh.w;
+            if(! visited[neighNode]){
+                topoSort(neighNode, visited, adj, st);
+            }
+        }
+        st.push(node);
+        return;
+    }
+    class Pair{
+        int n;
+        int w;
+        Pair(int n, int w){
+            this.n = n;
+            this.w = w;
+        }
+    }
+}
