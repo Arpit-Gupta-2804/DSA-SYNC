@@ -15,6 +15,7 @@ class Solution {
         }
         boolean [] visited = new boolean [V];
         Stack<Integer> st = new Stack<>();
+        
         topoSort(0, visited, adj, st);
         
         int [] dist = new int [V];
@@ -31,4 +32,3 @@ class Solution {
                     dist[neighNode] = w + weight;
                 }else{
                     dist[neighNode] = Math.min(dist[neighNode], w + weight);
-                }
