@@ -2,14 +2,14 @@
   "difficulty": {
     "Easy": 3,
     "Hard": 1,
-    "Medium": 13
+    "Medium": 14
   },
   "languages": {
     "C++": 2,
-    "Java": 18
+    "Java": 19
   },
   "platforms": {
-    "gfg": 7,
+    "gfg": 8,
     "leetcode": 13
   },
   "solvedProblems": [
@@ -32,7 +32,8 @@
     "Leetcode/Graph Theory/course-schedule.java",
     "Leetcode/Graph Theory/course-schedule-ii.java",
     "GFG/Graph/shortest-path-in-directed-acyclic-graph.java",
-    "GFG/Strings/alien-dictionary.java"
+    "GFG/Strings/alien-dictionary.java",
+    "GFG/Graph/shortest-path-in-unweighted-graph.java"
   ],
   "topics": {
     "Array": 6,
@@ -42,7 +43,7 @@
     "Directed Acyclic Graph": 1,
     "Divide and Conquer": 1,
     "Dynamic Programming": 1,
-    "Graph": 3,
+    "Graph": 4,
     "Graph Theory": 4,
     "Hash Table": 4,
     "Math": 1,
@@ -52,9 +53,9 @@
     "Sliding Window": 3,
     "Sorting": 2,
     "String": 2,
+    "Strings": 1,
     "Topological Sort": 2,
-    "Union-Find": 2,
-    "Strings": 1
+    "Union-Find": 2
   },
-  "totalSolved": 20
+  "totalSolved": 21
 }
