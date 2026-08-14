@@ -1,15 +1,15 @@
 {
   "difficulty": {
-    "Easy": 3,
+    "Easy": 4,
     "Hard": 1,
     "Medium": 14
   },
   "languages": {
     "C++": 2,
-    "Java": 19
+    "Java": 20
   },
   "platforms": {
-    "gfg": 8,
+    "gfg": 9,
     "leetcode": 13
   },
   "solvedProblems": [
@@ -33,7 +33,8 @@
     "Leetcode/Graph Theory/course-schedule-ii.java",
     "GFG/Graph/shortest-path-in-directed-acyclic-graph.java",
     "GFG/Strings/alien-dictionary.java",
-    "GFG/Graph/shortest-path-in-unweighted-graph.java"
+    "GFG/Graph/shortest-path-in-unweighted-graph.java",
+    "GFG/Tree/mirror-tree.java"
   ],
   "topics": {
     "Array": 6,
@@ -55,7 +56,8 @@
     "String": 2,
     "Strings": 1,
     "Topological Sort": 2,
-    "Union-Find": 2
+    "Union-Find": 2,
+    "Tree": 1
   },
-  "totalSolved": 21
+  "totalSolved": 22
 }
