@@ -1,14 +1,4 @@
-class Solution {
-    public int shortestPath(int V, int[][] edges, int src, int dest) {
-        // code here
-        
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        for(int i=0; i<V; i++){
-            adj.add(new ArrayList<>());
-        }
-        
-        for(int [] edge : edges){
-            int u = edge[0];
+int u = edge[0];
             int v = edge[1];
             adj.get(u).add(v);
             adj.get(v).add(u);
@@ -18,6 +8,7 @@ class Solution {
         Queue<int []> q = new LinkedList<>();
         q.offer(new int [] {src, 0});
         visited[src] = true;
+        boolean flag = false;
         while(!q.isEmpty()){
             int [] node = q.poll();
             int val = node[0];
@@ -27,8 +18,16 @@ class Solution {
                     visited[neigh] = true;
                     if(neigh == dest){
                         dist = w + 1;
+                        flag = true;
+                        break;
                     }
                     q.offer(new int [] {neigh, w+1 });
                 }
             }
+            if(flag){
+                break;
+            }
         }
+        return dist;
+    }
+}
