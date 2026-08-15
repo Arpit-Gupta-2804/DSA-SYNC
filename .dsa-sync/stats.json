@@ -1,16 +1,16 @@
 {
   "difficulty": {
-    "Easy": 4,
+    "Easy": 5,
     "Hard": 1,
     "Medium": 14
   },
   "languages": {
     "C++": 2,
-    "Java": 20
+    "Java": 21
   },
   "platforms": {
     "gfg": 9,
-    "leetcode": 13
+    "leetcode": 14
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -34,7 +34,8 @@
     "GFG/Graph/shortest-path-in-directed-acyclic-graph.java",
     "GFG/Strings/alien-dictionary.java",
     "GFG/Graph/shortest-path-in-unweighted-graph.java",
-    "GFG/Tree/mirror-tree.java"
+    "GFG/Tree/mirror-tree.java",
+    "Leetcode/Sliding Window/maximum-length-substring-with-two-occurrences.java"
   ],
   "topics": {
     "Array": 6,
@@ -46,18 +47,18 @@
     "Dynamic Programming": 1,
     "Graph": 4,
     "Graph Theory": 4,
-    "Hash Table": 4,
+    "Hash Table": 5,
     "Math": 1,
     "Mathematical": 3,
     "Matrix": 2,
     "Prefix Sum": 1,
-    "Sliding Window": 3,
+    "Sliding Window": 4,
     "Sorting": 2,
-    "String": 2,
+    "String": 3,
     "Strings": 1,
     "Topological Sort": 2,
-    "Union-Find": 2,
-    "Tree": 1
+    "Tree": 1,
+    "Union-Find": 2
   },
-  "totalSolved": 22
+  "totalSolved": 23
 }
