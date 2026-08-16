@@ -9,16 +9,16 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Language | Problems Solved |
 |:---------|----------------:|
 | C++ | 2 |
-| Java | 22 |
+| Java | 23 |
 
 ## Topics
 
 | Topic | Problems Solved |
 | :------|----------------:|
-| Array | 7 |
+| Array | 8 |
 | Breadth-First Search | 6 |
-| Hash Table | 5 |
-| Sliding Window | 5 |
+| Hash Table | 6 |
+| Sliding Window | 6 |
 | Depth-First Search | 4 |
 | Graph | 4 |
 | Graph Theory | 4 |
@@ -30,21 +30,21 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Topological Sort | 2 |
 | Union-Find | 2 |
 | Arrays | 1 |
+| Binary Search | 1 |
 | Directed Acyclic Graph | 1 |
 | Divide and Conquer | 1 |
 | Dynamic Programming | 1 |
 | Math | 1 |
 | Strings | 1 |
 | Tree | 1 |
-| Binary Search | 1 |
 
 ## Progress
     
 | Platform | Problems Solved | 
 | :---------|----------------:|
 | gfg | 9 |
-| leetcode | 15 |
-| **Total** | **24** |
+| leetcode | 16 |
+| **Total** | **25** |
 
 ## Difficulty
     
@@ -52,7 +52,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 |:-----------|----------------|
 | Easy | 5 |
 | Hard | 1 |
-| Medium | 15 |
-| **Total** | **24** |
+| Medium | 16 |
+| **Total** | **25** |
 
 <!-- DSA-SYNC:STATS:END -->
