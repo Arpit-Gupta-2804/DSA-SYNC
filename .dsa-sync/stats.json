@@ -2,15 +2,15 @@
   "difficulty": {
     "Easy": 5,
     "Hard": 1,
-    "Medium": 14
+    "Medium": 15
   },
   "languages": {
     "C++": 2,
-    "Java": 21
+    "Java": 22
   },
   "platforms": {
     "gfg": 9,
-    "leetcode": 14
+    "leetcode": 15
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -35,10 +35,11 @@
     "GFG/Strings/alien-dictionary.java",
     "GFG/Graph/shortest-path-in-unweighted-graph.java",
     "GFG/Tree/mirror-tree.java",
-    "Leetcode/Sliding Window/maximum-length-substring-with-two-occurrences.java"
+    "Leetcode/Sliding Window/maximum-length-substring-with-two-occurrences.java",
+    "Leetcode/Binary Search/max-consecutive-ones-iii.java"
   ],
   "topics": {
-    "Array": 6,
+    "Array": 7,
     "Arrays": 1,
     "Breadth-First Search": 6,
     "Depth-First Search": 4,
@@ -51,14 +52,15 @@
     "Math": 1,
     "Mathematical": 3,
     "Matrix": 2,
-    "Prefix Sum": 1,
-    "Sliding Window": 4,
+    "Prefix Sum": 2,
+    "Sliding Window": 5,
     "Sorting": 2,
     "String": 3,
     "Strings": 1,
     "Topological Sort": 2,
     "Tree": 1,
-    "Union-Find": 2
+    "Union-Find": 2,
+    "Binary Search": 1
   },
-  "totalSolved": 23
+  "totalSolved": 24
 }
