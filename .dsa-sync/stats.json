@@ -1,16 +1,16 @@
 {
   "difficulty": {
     "Easy": 5,
-    "Hard": 1,
+    "Hard": 2,
     "Medium": 17
   },
   "languages": {
     "C++": 2,
-    "Java": 24
+    "Java": 25
   },
   "platforms": {
     "gfg": 10,
-    "leetcode": 16
+    "leetcode": 17
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -38,31 +38,33 @@
     "Leetcode/Sliding Window/maximum-length-substring-with-two-occurrences.java",
     "Leetcode/Binary Search/max-consecutive-ones-iii.java",
     "Leetcode/Sliding Window/fruit-into-baskets.java",
-    "GFG/Arrays/max-consecutive-1-s-with-k-flips.java"
+    "GFG/Arrays/max-consecutive-1-s-with-k-flips.java",
+    "Leetcode/Breadth-First Search/word-ladder.java"
   ],
   "topics": {
     "Array": 8,
     "Arrays": 2,
     "Binary Search": 1,
-    "Breadth-First Search": 6,
+    "Breadth-First Search": 7,
     "Depth-First Search": 4,
     "Directed Acyclic Graph": 1,
     "Divide and Conquer": 1,
     "Dynamic Programming": 1,
     "Graph": 4,
     "Graph Theory": 4,
-    "Hash Table": 6,
+    "Hash Table": 7,
     "Math": 1,
     "Mathematical": 3,
     "Matrix": 2,
     "Prefix Sum": 2,
     "Sliding Window": 6,
     "Sorting": 2,
-    "String": 3,
+    "String": 4,
     "Strings": 1,
     "Topological Sort": 2,
     "Tree": 1,
-    "Union-Find": 2
+    "Union-Find": 2,
+    "Bidirectional Search": 1
   },
-  "totalSolved": 26
+  "totalSolved": 27
 }
