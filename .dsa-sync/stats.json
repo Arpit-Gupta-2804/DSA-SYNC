@@ -2,14 +2,14 @@
   "difficulty": {
     "Easy": 5,
     "Hard": 2,
-    "Medium": 17
+    "Medium": 18
   },
   "languages": {
     "C++": 2,
-    "Java": 25
+    "Java": 26
   },
   "platforms": {
-    "gfg": 10,
+    "gfg": 11,
     "leetcode": 17
   },
   "solvedProblems": [
@@ -39,11 +39,13 @@
     "Leetcode/Binary Search/max-consecutive-ones-iii.java",
     "Leetcode/Sliding Window/fruit-into-baskets.java",
     "GFG/Arrays/max-consecutive-1-s-with-k-flips.java",
-    "Leetcode/Breadth-First Search/word-ladder.java"
+    "Leetcode/Breadth-First Search/word-ladder.java",
+    "GFG/Strings/longest-substring-with-k-uniques.java"
   ],
   "topics": {
     "Array": 8,
     "Arrays": 2,
+    "Bidirectional Search": 1,
     "Binary Search": 1,
     "Breadth-First Search": 7,
     "Depth-First Search": 4,
@@ -60,11 +62,10 @@
     "Sliding Window": 6,
     "Sorting": 2,
     "String": 4,
-    "Strings": 1,
+    "Strings": 2,
     "Topological Sort": 2,
     "Tree": 1,
-    "Union-Find": 2,
-    "Bidirectional Search": 1
+    "Union-Find": 2
   },
-  "totalSolved": 27
+  "totalSolved": 28
 }
