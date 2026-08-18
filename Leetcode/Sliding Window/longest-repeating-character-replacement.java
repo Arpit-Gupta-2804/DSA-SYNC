@@ -8,14 +8,14 @@ class Solution {
             char ch = s.charAt(right);
             freq[ch - 'A']++;
             maxFreq = Math.max(maxFreq, freq[ch-'A']);
-            if((right - left + 1) - maxFreq > k){
+            int changes = (right - left + 1) - maxFreq;
+            if(changes > k){
                 char rch = s.charAt(left);
                 freq[rch - 'A']--;
                 left++;
             }
-            if((right - left + 1) - maxFreq <= k){
-                maxLen = Math.max(maxLen, right - left + 1);
-            }
+
+            maxLen = Math.max(maxLen, right - left + 1);
         }
         return maxLen;
     }
