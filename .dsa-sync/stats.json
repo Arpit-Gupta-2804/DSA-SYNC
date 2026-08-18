@@ -2,15 +2,15 @@
   "difficulty": {
     "Easy": 5,
     "Hard": 2,
-    "Medium": 18
+    "Medium": 19
   },
   "languages": {
     "C++": 2,
-    "Java": 26
+    "Java": 27
   },
   "platforms": {
     "gfg": 11,
-    "leetcode": 17
+    "leetcode": 18
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -40,7 +40,8 @@
     "Leetcode/Sliding Window/fruit-into-baskets.java",
     "GFG/Arrays/max-consecutive-1-s-with-k-flips.java",
     "Leetcode/Breadth-First Search/word-ladder.java",
-    "GFG/Strings/longest-substring-with-k-uniques.java"
+    "GFG/Strings/longest-substring-with-k-uniques.java",
+    "Leetcode/Sliding Window/number-of-substrings-containing-all-three-characters.java"
   ],
   "topics": {
     "Array": 8,
@@ -54,18 +55,18 @@
     "Dynamic Programming": 1,
     "Graph": 4,
     "Graph Theory": 4,
-    "Hash Table": 7,
+    "Hash Table": 8,
     "Math": 1,
     "Mathematical": 3,
     "Matrix": 2,
     "Prefix Sum": 2,
-    "Sliding Window": 6,
+    "Sliding Window": 7,
     "Sorting": 2,
-    "String": 4,
+    "String": 5,
     "Strings": 2,
     "Topological Sort": 2,
     "Tree": 1,
     "Union-Find": 2
   },
-  "totalSolved": 28
+  "totalSolved": 29
 }
