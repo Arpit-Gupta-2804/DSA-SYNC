@@ -1,16 +1,16 @@
 {
   "difficulty": {
     "Easy": 6,
-    "Hard": 2,
+    "Hard": 3,
     "Medium": 21
   },
   "languages": {
     "C++": 2,
-    "Java": 30
+    "Java": 31
   },
   "platforms": {
     "gfg": 12,
-    "leetcode": 20
+    "leetcode": 21
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -44,32 +44,34 @@
     "Leetcode/Sliding Window/number-of-substrings-containing-all-three-characters.java",
     "Leetcode/Sliding Window/longest-repeating-character-replacement.java",
     "Leetcode/Hash Table/find-the-largest-almost-missing-integer.java",
-    "GFG/Graph/dijkstra-algorithm.java"
+    "GFG/Graph/dijkstra-algorithm.java",
+    "Leetcode/Breadth-First Search/word-ladder-ii.java"
   ],
   "topics": {
     "Array": 9,
     "Arrays": 2,
-    "Bidirectional Search": 1,
+    "Bidirectional Search": 2,
     "Binary Search": 1,
-    "Breadth-First Search": 7,
+    "Breadth-First Search": 8,
     "Depth-First Search": 4,
     "Directed Acyclic Graph": 1,
     "Divide and Conquer": 1,
     "Dynamic Programming": 1,
     "Graph": 5,
     "Graph Theory": 4,
-    "Hash Table": 10,
+    "Hash Table": 11,
     "Math": 1,
     "Mathematical": 3,
     "Matrix": 2,
     "Prefix Sum": 2,
     "Sliding Window": 8,
     "Sorting": 2,
-    "String": 6,
+    "String": 7,
     "Strings": 2,
     "Topological Sort": 2,
     "Tree": 1,
-    "Union-Find": 2
+    "Union-Find": 2,
+    "Backtracking": 1
   },
-  "totalSolved": 32
+  "totalSolved": 33
 }
