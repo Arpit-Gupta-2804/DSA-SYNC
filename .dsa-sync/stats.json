@@ -2,14 +2,14 @@
   "difficulty": {
     "Easy": 6,
     "Hard": 2,
-    "Medium": 20
+    "Medium": 21
   },
   "languages": {
     "C++": 2,
-    "Java": 29
+    "Java": 30
   },
   "platforms": {
-    "gfg": 11,
+    "gfg": 12,
     "leetcode": 20
   },
   "solvedProblems": [
@@ -43,7 +43,8 @@
     "GFG/Strings/longest-substring-with-k-uniques.java",
     "Leetcode/Sliding Window/number-of-substrings-containing-all-three-characters.java",
     "Leetcode/Sliding Window/longest-repeating-character-replacement.java",
-    "Leetcode/Hash Table/find-the-largest-almost-missing-integer.java"
+    "Leetcode/Hash Table/find-the-largest-almost-missing-integer.java",
+    "GFG/Graph/dijkstra-algorithm.java"
   ],
   "topics": {
     "Array": 9,
@@ -55,7 +56,7 @@
     "Directed Acyclic Graph": 1,
     "Divide and Conquer": 1,
     "Dynamic Programming": 1,
-    "Graph": 4,
+    "Graph": 5,
     "Graph Theory": 4,
     "Hash Table": 10,
     "Math": 1,
@@ -70,5 +71,5 @@
     "Tree": 1,
     "Union-Find": 2
   },
-  "totalSolved": 31
+  "totalSolved": 32
 }
