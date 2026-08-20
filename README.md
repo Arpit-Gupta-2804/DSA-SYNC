@@ -9,7 +9,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Language | Problems Solved |
 |:---------|----------------:|
 | C++ | 2 |
-| Java | 33 |
+| Java | 34 |
 
 ## Topics
 
@@ -20,7 +20,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Breadth-First Search | 8 |
 | Sliding Window | 8 |
 | String | 7 |
-| Graph | 5 |
+| Graph | 6 |
 | Depth-First Search | 4 |
 | Graph Theory | 4 |
 | Mathematical | 3 |
@@ -40,16 +40,16 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Dynamic Programming | 1 |
 | Greedy | 1 |
 | Math | 1 |
-| Tree | 1 |
 | Simulation | 1 |
+| Tree | 1 |
 
 ## Progress
     
 | Platform | Problems Solved | 
 | :---------|----------------:|
-| gfg | 12 |
+| gfg | 13 |
 | leetcode | 23 |
-| **Total** | **35** |
+| **Total** | **36** |
 
 ## Difficulty
     
@@ -57,7 +57,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 |:-----------|----------------|
 | Easy | 7 |
 | Hard | 3 |
-| Medium | 22 |
-| **Total** | **35** |
+| Medium | 23 |
+| **Total** | **36** |
 
 <!-- DSA-SYNC:STATS:END -->
