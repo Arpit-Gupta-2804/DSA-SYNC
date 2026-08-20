@@ -2,14 +2,14 @@
   "difficulty": {
     "Easy": 7,
     "Hard": 3,
-    "Medium": 22
+    "Medium": 23
   },
   "languages": {
     "C++": 2,
-    "Java": 33
+    "Java": 34
   },
   "platforms": {
-    "gfg": 12,
+    "gfg": 13,
     "leetcode": 23
   },
   "solvedProblems": [
@@ -47,7 +47,8 @@
     "GFG/Graph/dijkstra-algorithm.java",
     "Leetcode/Breadth-First Search/word-ladder-ii.java",
     "Leetcode/Hash Table/cinema-seat-allocation.java",
-    "Leetcode/Array/distribute-elements-into-two-arrays-i.java"
+    "Leetcode/Array/distribute-elements-into-two-arrays-i.java",
+    "GFG/Graph/shortest-distance-in-a-binary-maze.java"
   ],
   "topics": {
     "Array": 11,
@@ -61,7 +62,7 @@
     "Directed Acyclic Graph": 1,
     "Divide and Conquer": 1,
     "Dynamic Programming": 1,
-    "Graph": 5,
+    "Graph": 6,
     "Graph Theory": 4,
     "Greedy": 1,
     "Hash Table": 12,
@@ -69,14 +70,14 @@
     "Mathematical": 3,
     "Matrix": 2,
     "Prefix Sum": 2,
+    "Simulation": 1,
     "Sliding Window": 8,
     "Sorting": 2,
     "String": 7,
     "Strings": 2,
     "Topological Sort": 2,
     "Tree": 1,
-    "Union-Find": 2,
-    "Simulation": 1
+    "Union-Find": 2
   },
-  "totalSolved": 35
+  "totalSolved": 36
 }
