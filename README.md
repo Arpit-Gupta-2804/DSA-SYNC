@@ -42,9 +42,9 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Divide and Conquer | 1 |
 | Greedy | 1 |
 | Math | 1 |
+| Shortest Path | 1 |
 | Simulation | 1 |
 | Tree | 1 |
-| Shortest Path | 1 |
 
 ## Progress
     
