@@ -2,15 +2,15 @@
   "difficulty": {
     "Easy": 7,
     "Hard": 3,
-    "Medium": 26
+    "Medium": 27
   },
   "languages": {
     "C++": 2,
-    "Java": 37
+    "Java": 38
   },
   "platforms": {
     "gfg": 13,
-    "leetcode": 26
+    "leetcode": 27
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -51,7 +51,8 @@
     "GFG/Graph/shortest-distance-in-a-binary-maze.java",
     "Leetcode/Depth-First Search/path-with-minimum-effort.java",
     "Leetcode/Dynamic Programming/cheapest-flights-within-k-stops.java",
-    "Leetcode/Graph Theory/network-delay-time.java"
+    "Leetcode/Graph Theory/network-delay-time.java",
+    "Leetcode/Dynamic Programming/number-of-ways-to-arrive-at-destination.java"
   ],
   "topics": {
     "Array": 12,
@@ -62,12 +63,12 @@
     "Bit Manipulation": 1,
     "Breadth-First Search": 11,
     "Depth-First Search": 7,
-    "Dijkstra's Algorithm": 2,
+    "Dijkstra's Algorithm": 3,
     "Directed Acyclic Graph": 1,
     "Divide and Conquer": 1,
-    "Dynamic Programming": 2,
+    "Dynamic Programming": 3,
     "Graph": 6,
-    "Graph Theory": 6,
+    "Graph Theory": 7,
     "Greedy": 1,
     "Hash Table": 12,
     "Heap (Priority Queue)": 3,
@@ -75,15 +76,15 @@
     "Mathematical": 3,
     "Matrix": 3,
     "Prefix Sum": 2,
-    "Shortest Path": 2,
+    "Shortest Path": 3,
     "Simulation": 1,
     "Sliding Window": 8,
     "Sorting": 2,
     "String": 7,
     "Strings": 2,
-    "Topological Sort": 2,
+    "Topological Sort": 3,
     "Tree": 1,
     "Union-Find": 3
   },
-  "totalSolved": 39
+  "totalSolved": 40
 }
