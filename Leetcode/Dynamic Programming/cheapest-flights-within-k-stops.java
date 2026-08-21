@@ -22,6 +22,8 @@ class Solution {
             int dist = curr.dist;
             int node = curr.node;
             int lvl = curr.lvl;
+
+            if(lvl > k) continue;
             
             for(int [] next : adj.get(node)){
                 int d = next[1];
