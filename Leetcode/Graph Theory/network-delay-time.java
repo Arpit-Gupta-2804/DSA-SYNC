@@ -23,6 +23,8 @@ class Solution {
             int t = curr.time;
             int node = curr.node;
 
+            if(t > time[node]) continue;
+            
             for(int [] next : adj.get(node)){
                 int v = next[0];
                 int newTime = next[1];
