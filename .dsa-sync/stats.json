@@ -74,6 +74,7 @@
     "Mathematical": 3,
     "Matrix": 3,
     "Prefix Sum": 2,
+    "Shortest Path": 1,
     "Simulation": 1,
     "Sliding Window": 8,
     "Sorting": 2,
@@ -81,8 +82,7 @@
     "Strings": 2,
     "Topological Sort": 2,
     "Tree": 1,
-    "Union-Find": 3,
-    "Shortest Path": 1
+    "Union-Find": 3
   },
   "totalSolved": 38
 }
