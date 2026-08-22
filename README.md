@@ -9,7 +9,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Language | Problems Solved |
 |:---------|----------------:|
 | C++ | 2 |
-| Java | 41 |
+| Java | 42 |
 
 ## Topics
 
@@ -34,6 +34,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Union-Find | 3 |
 | Bidirectional Search | 2 |
 | Binary Search | 2 |
+| Math | 2 |
 | Prefix Sum | 2 |
 | Sorting | 2 |
 | Strings | 2 |
@@ -42,7 +43,6 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Directed Acyclic Graph | 1 |
 | Divide and Conquer | 1 |
 | Greedy | 1 |
-| Math | 1 |
 | Simulation | 1 |
 | Tree | 1 |
 
@@ -51,16 +51,16 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Platform | Problems Solved | 
 | :---------|----------------:|
 | gfg | 16 |
-| leetcode | 27 |
-| **Total** | **43** |
+| leetcode | 28 |
+| **Total** | **44** |
 
 ## Difficulty
     
 | Difficulty | Problems Solved |
 |:-----------|----------------|
-| Easy | 7 |
+| Easy | 8 |
 | Hard | 3 |
 | Medium | 30 |
-| **Total** | **43** |
+| **Total** | **44** |
 
 <!-- DSA-SYNC:STATS:END -->
