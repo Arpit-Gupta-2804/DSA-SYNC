@@ -2,14 +2,14 @@
   "difficulty": {
     "Easy": 7,
     "Hard": 3,
-    "Medium": 27
+    "Medium": 28
   },
   "languages": {
     "C++": 2,
-    "Java": 38
+    "Java": 39
   },
   "platforms": {
-    "gfg": 13,
+    "gfg": 14,
     "leetcode": 27
   },
   "solvedProblems": [
@@ -52,11 +52,12 @@
     "Leetcode/Depth-First Search/path-with-minimum-effort.java",
     "Leetcode/Dynamic Programming/cheapest-flights-within-k-stops.java",
     "Leetcode/Graph Theory/network-delay-time.java",
-    "Leetcode/Dynamic Programming/number-of-ways-to-arrive-at-destination.java"
+    "Leetcode/Dynamic Programming/number-of-ways-to-arrive-at-destination.java",
+    "GFG/Arrays/minimum-multiplications-to-reach-end.java"
   ],
   "topics": {
     "Array": 12,
-    "Arrays": 2,
+    "Arrays": 3,
     "Backtracking": 1,
     "Bidirectional Search": 2,
     "Binary Search": 2,
@@ -67,7 +68,7 @@
     "Directed Acyclic Graph": 1,
     "Divide and Conquer": 1,
     "Dynamic Programming": 3,
-    "Graph": 6,
+    "Graph": 7,
     "Graph Theory": 7,
     "Greedy": 1,
     "Hash Table": 12,
@@ -86,5 +87,5 @@
     "Tree": 1,
     "Union-Find": 3
   },
-  "totalSolved": 40
+  "totalSolved": 41
 }
