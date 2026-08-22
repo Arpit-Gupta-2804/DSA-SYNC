@@ -2,14 +2,14 @@
   "difficulty": {
     "Easy": 7,
     "Hard": 3,
-    "Medium": 29
+    "Medium": 30
   },
   "languages": {
     "C++": 2,
-    "Java": 40
+    "Java": 41
   },
   "platforms": {
-    "gfg": 15,
+    "gfg": 16,
     "leetcode": 27
   },
   "solvedProblems": [
@@ -54,7 +54,8 @@
     "Leetcode/Graph Theory/network-delay-time.java",
     "Leetcode/Dynamic Programming/number-of-ways-to-arrive-at-destination.java",
     "GFG/Arrays/minimum-multiplications-to-reach-end.java",
-    "GFG/Dynamic Programming/bellman-ford.java"
+    "GFG/Dynamic Programming/bellman-ford.java",
+    "GFG/Dynamic Programming/floyd-warshall.java"
   ],
   "topics": {
     "Array": 12,
@@ -68,8 +69,8 @@
     "Dijkstra's Algorithm": 3,
     "Directed Acyclic Graph": 1,
     "Divide and Conquer": 1,
-    "Dynamic Programming": 4,
-    "Graph": 8,
+    "Dynamic Programming": 5,
+    "Graph": 9,
     "Graph Theory": 7,
     "Greedy": 1,
     "Hash Table": 12,
@@ -88,5 +89,5 @@
     "Tree": 1,
     "Union-Find": 3
   },
-  "totalSolved": 42
+  "totalSolved": 43
 }
