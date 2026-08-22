@@ -1,16 +1,16 @@
 {
   "difficulty": {
-    "Easy": 7,
+    "Easy": 8,
     "Hard": 3,
     "Medium": 30
   },
   "languages": {
     "C++": 2,
-    "Java": 41
+    "Java": 42
   },
   "platforms": {
     "gfg": 16,
-    "leetcode": 27
+    "leetcode": 28
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -55,7 +55,8 @@
     "Leetcode/Dynamic Programming/number-of-ways-to-arrive-at-destination.java",
     "GFG/Arrays/minimum-multiplications-to-reach-end.java",
     "GFG/Dynamic Programming/bellman-ford.java",
-    "GFG/Dynamic Programming/floyd-warshall.java"
+    "GFG/Dynamic Programming/floyd-warshall.java",
+    "Leetcode/General/check-divisibility-by-digit-sum-and-product.java"
   ],
   "topics": {
     "Array": 12,
@@ -75,7 +76,7 @@
     "Greedy": 1,
     "Hash Table": 12,
     "Heap (Priority Queue)": 3,
-    "Math": 1,
+    "Math": 2,
     "Mathematical": 3,
     "Matrix": 3,
     "Prefix Sum": 2,
@@ -89,5 +90,5 @@
     "Tree": 1,
     "Union-Find": 3
   },
-  "totalSolved": 43
+  "totalSolved": 44
 }
