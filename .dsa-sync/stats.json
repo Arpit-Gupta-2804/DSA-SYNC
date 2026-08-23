@@ -2,15 +2,15 @@
   "difficulty": {
     "Easy": 8,
     "Hard": 3,
-    "Medium": 30
+    "Medium": 31
   },
   "languages": {
     "C++": 2,
-    "Java": 42
+    "Java": 43
   },
   "platforms": {
     "gfg": 16,
-    "leetcode": 28
+    "leetcode": 29
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -56,7 +56,8 @@
     "GFG/Arrays/minimum-multiplications-to-reach-end.java",
     "GFG/Dynamic Programming/bellman-ford.java",
     "GFG/Dynamic Programming/floyd-warshall.java",
-    "Leetcode/General/check-divisibility-by-digit-sum-and-product.java"
+    "Leetcode/General/check-divisibility-by-digit-sum-and-product.java",
+    "Leetcode/Dynamic Programming/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.java"
   ],
   "topics": {
     "Array": 12,
@@ -67,12 +68,12 @@
     "Bit Manipulation": 1,
     "Breadth-First Search": 11,
     "Depth-First Search": 7,
-    "Dijkstra's Algorithm": 3,
+    "Dijkstra's Algorithm": 4,
     "Directed Acyclic Graph": 1,
     "Divide and Conquer": 1,
-    "Dynamic Programming": 5,
+    "Dynamic Programming": 6,
     "Graph": 9,
-    "Graph Theory": 7,
+    "Graph Theory": 8,
     "Greedy": 1,
     "Hash Table": 12,
     "Heap (Priority Queue)": 3,
@@ -80,7 +81,7 @@
     "Mathematical": 3,
     "Matrix": 3,
     "Prefix Sum": 2,
-    "Shortest Path": 3,
+    "Shortest Path": 4,
     "Simulation": 1,
     "Sliding Window": 8,
     "Sorting": 2,
@@ -88,7 +89,9 @@
     "Strings": 2,
     "Topological Sort": 3,
     "Tree": 1,
-    "Union-Find": 3
+    "Union-Find": 3,
+    "Bellman–Ford Algorithm": 1,
+    "Floyd–Warshall Algorithm": 1
   },
-  "totalSolved": 44
+  "totalSolved": 45
 }
