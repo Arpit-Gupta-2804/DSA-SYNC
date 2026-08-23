@@ -9,7 +9,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Language | Problems Solved |
 |:---------|----------------:|
 | C++ | 2 |
-| Java | 43 |
+| Java | 44 |
 
 ## Topics
 
@@ -39,22 +39,22 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Sorting | 2 |
 | Strings | 2 |
 | Backtracking | 1 |
+| Bellman–Ford Algorithm | 1 |
 | Bit Manipulation | 1 |
 | Directed Acyclic Graph | 1 |
 | Divide and Conquer | 1 |
+| Floyd–Warshall Algorithm | 1 |
 | Greedy | 1 |
 | Simulation | 1 |
 | Tree | 1 |
-| Bellman–Ford Algorithm | 1 |
-| Floyd–Warshall Algorithm | 1 |
 
 ## Progress
     
 | Platform | Problems Solved | 
 | :---------|----------------:|
 | gfg | 16 |
-| leetcode | 29 |
-| **Total** | **45** |
+| leetcode | 30 |
+| **Total** | **46** |
 
 ## Difficulty
     
@@ -62,7 +62,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 |:-----------|----------------|
 | Easy | 8 |
 | Hard | 3 |
-| Medium | 31 |
-| **Total** | **45** |
+| Medium | 32 |
+| **Total** | **46** |
 
 <!-- DSA-SYNC:STATS:END -->
