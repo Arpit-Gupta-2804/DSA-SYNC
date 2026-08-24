@@ -1,16 +1,16 @@
 {
   "difficulty": {
-    "Easy": 8,
+    "Easy": 9,
     "Hard": 3,
     "Medium": 34
   },
   "languages": {
     "C++": 2,
-    "Java": 46
+    "Java": 47
   },
   "platforms": {
     "gfg": 18,
-    "leetcode": 30
+    "leetcode": 31
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -60,7 +60,8 @@
     "Leetcode/Dynamic Programming/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.java",
     "Leetcode/General/find-all-numbers-disappeared-in-an-array-ii.java",
     "GFG/Graph/minimum-spanning-tree.java",
-    "GFG/Graph/minimum-spanning-tree-kruskal-s-algorithm.java"
+    "GFG/Graph/minimum-spanning-tree-kruskal-s-algorithm.java",
+    "Leetcode/Two Pointers/find-the-index-of-the-first-occurrence-in-a-string.java"
   ],
   "topics": {
     "Array": 12,
@@ -90,11 +91,16 @@
     "Simulation": 1,
     "Sliding Window": 8,
     "Sorting": 2,
-    "String": 7,
+    "String": 8,
     "Strings": 2,
     "Topological Sort": 3,
     "Tree": 1,
-    "Union-Find": 3
+    "Union-Find": 3,
+    "Two Pointers": 1,
+    "String Matching": 1,
+    "Z Algorithm": 1,
+    "Knuth–Morris–Pratt Algorithm": 1,
+    "Boyer–Moore String-Search Algorithm": 1
   },
-  "totalSolved": 48
+  "totalSolved": 49
 }
