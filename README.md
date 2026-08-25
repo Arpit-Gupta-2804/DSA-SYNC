@@ -9,7 +9,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Language | Problems Solved |
 |:---------|----------------:|
 | C++ | 2 |
-| Java | 50 |
+| Java | 51 |
 
 ## Topics
 
@@ -27,17 +27,17 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Arrays | 4 |
 | Dijkstra's Algorithm | 4 |
 | Shortest Path | 4 |
+| Sorting | 4 |
 | Heap (Priority Queue) | 3 |
 | Mathematical | 3 |
 | Matrix | 3 |
-| Sorting | 3 |
+| Strings | 3 |
 | Topological Sort | 3 |
 | Union-Find | 3 |
 | Bidirectional Search | 2 |
 | Binary Search | 2 |
 | Math | 2 |
 | Prefix Sum | 2 |
-| Strings | 2 |
 | Backtracking | 1 |
 | Bellman–Ford Algorithm | 1 |
 | Bit Manipulation | 1 |
@@ -57,17 +57,17 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
     
 | Platform | Problems Solved | 
 | :---------|----------------:|
-| gfg | 19 |
+| gfg | 20 |
 | leetcode | 33 |
-| **Total** | **52** |
+| **Total** | **53** |
 
 ## Difficulty
     
 | Difficulty | Problems Solved |
 |:-----------|----------------|
-| Easy | 12 |
+| Easy | 13 |
 | Hard | 3 |
 | Medium | 34 |
-| **Total** | **52** |
+| **Total** | **53** |
 
 <!-- DSA-SYNC:STATS:END -->
