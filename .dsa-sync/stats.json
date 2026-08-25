@@ -1,16 +1,16 @@
 {
   "difficulty": {
-    "Easy": 11,
+    "Easy": 12,
     "Hard": 3,
     "Medium": 34
   },
   "languages": {
     "C++": 2,
-    "Java": 49
+    "Java": 50
   },
   "platforms": {
     "gfg": 19,
-    "leetcode": 32
+    "leetcode": 33
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -63,10 +63,11 @@
     "GFG/Graph/minimum-spanning-tree-kruskal-s-algorithm.java",
     "Leetcode/Two Pointers/find-the-index-of-the-first-occurrence-in-a-string.java",
     "Leetcode/Hash Table/smallest-missing-multiple-of-k.java",
-    "GFG/Arrays/two-sum-pair-with-given-sum.java"
+    "GFG/Arrays/two-sum-pair-with-given-sum.java",
+    "Leetcode/Hash Table/contains-duplicate.java"
   ],
   "topics": {
-    "Array": 13,
+    "Array": 14,
     "Arrays": 4,
     "Backtracking": 1,
     "Bellman–Ford Algorithm": 1,
@@ -84,7 +85,7 @@
     "Graph": 11,
     "Graph Theory": 8,
     "Greedy": 1,
-    "Hash Table": 13,
+    "Hash Table": 14,
     "Heap (Priority Queue)": 3,
     "Knuth–Morris–Pratt Algorithm": 1,
     "Math": 2,
@@ -94,7 +95,7 @@
     "Shortest Path": 4,
     "Simulation": 1,
     "Sliding Window": 8,
-    "Sorting": 2,
+    "Sorting": 3,
     "String": 8,
     "String Matching": 1,
     "Strings": 2,
@@ -104,5 +105,5 @@
     "Union-Find": 3,
     "Z Algorithm": 1
   },
-  "totalSolved": 51
+  "totalSolved": 52
 }
