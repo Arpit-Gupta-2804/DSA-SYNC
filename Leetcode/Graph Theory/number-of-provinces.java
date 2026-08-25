@@ -42,18 +42,21 @@ class Solution {
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
         DisjointSet ds = new DisjointSet(isConnected.length);
-        int cnt = 0;
+        
         for(int i=0; i<n; i++){
             for(int j=i+1; j<n; j++){
-                if(j != i && isConnected[i][j] == 1){
-                    if(ds.findUnionParent(i) != ds.findUnionParent(j)){
-                        cnt++;
-                        ds.unionBySize(i, j);
-                    }
+                if(isConnected[i][j] == 1){
+                    ds.unionBySize(i, j);
                 }
             }
         }
-        return n - cnt;
+        int cnt = 0;
+        for(int i=0; i<n; i++){
+            if(ds.findUnionParent(i) == i){
+                cnt++;
+            }
+        }
+        return cnt;
     }
 }
 
