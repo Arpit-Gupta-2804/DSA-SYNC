@@ -71,6 +71,7 @@
     "Bidirectional Search": 2,
     "Binary Search": 2,
     "Bit Manipulation": 1,
+    "Boyer–Moore String-Search Algorithm": 1,
     "Breadth-First Search": 11,
     "Depth-First Search": 7,
     "Dijkstra's Algorithm": 4,
@@ -83,6 +84,7 @@
     "Greedy": 1,
     "Hash Table": 12,
     "Heap (Priority Queue)": 3,
+    "Knuth–Morris–Pratt Algorithm": 1,
     "Math": 2,
     "Mathematical": 3,
     "Matrix": 3,
@@ -92,15 +94,13 @@
     "Sliding Window": 8,
     "Sorting": 2,
     "String": 8,
+    "String Matching": 1,
     "Strings": 2,
     "Topological Sort": 3,
     "Tree": 1,
-    "Union-Find": 3,
     "Two Pointers": 1,
-    "String Matching": 1,
-    "Z Algorithm": 1,
-    "Knuth–Morris–Pratt Algorithm": 1,
-    "Boyer–Moore String-Search Algorithm": 1
+    "Union-Find": 3,
+    "Z Algorithm": 1
   },
   "totalSolved": 49
 }
