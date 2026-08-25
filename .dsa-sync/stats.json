@@ -1,15 +1,15 @@
 {
   "difficulty": {
-    "Easy": 10,
+    "Easy": 11,
     "Hard": 3,
     "Medium": 34
   },
   "languages": {
     "C++": 2,
-    "Java": 48
+    "Java": 49
   },
   "platforms": {
-    "gfg": 18,
+    "gfg": 19,
     "leetcode": 32
   },
   "solvedProblems": [
@@ -62,11 +62,12 @@
     "GFG/Graph/minimum-spanning-tree.java",
     "GFG/Graph/minimum-spanning-tree-kruskal-s-algorithm.java",
     "Leetcode/Two Pointers/find-the-index-of-the-first-occurrence-in-a-string.java",
-    "Leetcode/Hash Table/smallest-missing-multiple-of-k.java"
+    "Leetcode/Hash Table/smallest-missing-multiple-of-k.java",
+    "GFG/Arrays/two-sum-pair-with-given-sum.java"
   ],
   "topics": {
     "Array": 13,
-    "Arrays": 3,
+    "Arrays": 4,
     "Backtracking": 1,
     "Bellman–Ford Algorithm": 1,
     "Bidirectional Search": 2,
@@ -103,5 +104,5 @@
     "Union-Find": 3,
     "Z Algorithm": 1
   },
-  "totalSolved": 50
+  "totalSolved": 51
 }
