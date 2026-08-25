@@ -41,17 +41,17 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Backtracking | 1 |
 | Bellman–Ford Algorithm | 1 |
 | Bit Manipulation | 1 |
+| Boyer–Moore String-Search Algorithm | 1 |
 | Directed Acyclic Graph | 1 |
 | Divide and Conquer | 1 |
 | Floyd–Warshall Algorithm | 1 |
 | Greedy | 1 |
+| Knuth–Morris–Pratt Algorithm | 1 |
 | Simulation | 1 |
+| String Matching | 1 |
 | Tree | 1 |
 | Two Pointers | 1 |
-| String Matching | 1 |
 | Z Algorithm | 1 |
-| Knuth–Morris–Pratt Algorithm | 1 |
-| Boyer–Moore String-Search Algorithm | 1 |
 
 ## Progress
     
