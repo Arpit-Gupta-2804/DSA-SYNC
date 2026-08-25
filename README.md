@@ -9,14 +9,14 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Language | Problems Solved |
 |:---------|----------------:|
 | C++ | 2 |
-| Java | 52 |
+| Java | 53 |
 
 ## Topics
 
 | Topic | Problems Solved |
 | :------|----------------:|
-| Array | 15 |
-| Hash Table | 15 |
+| Array | 16 |
+| Hash Table | 16 |
 | Breadth-First Search | 11 |
 | Graph | 11 |
 | String | 9 |
@@ -24,11 +24,11 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Sliding Window | 8 |
 | Depth-First Search | 7 |
 | Dynamic Programming | 6 |
-| Sorting | 5 |
+| Sorting | 6 |
 | Arrays | 4 |
 | Dijkstra's Algorithm | 4 |
+| Heap (Priority Queue) | 4 |
 | Shortest Path | 4 |
-| Heap (Priority Queue) | 3 |
 | Mathematical | 3 |
 | Matrix | 3 |
 | Strings | 3 |
@@ -36,6 +36,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Union-Find | 3 |
 | Bidirectional Search | 2 |
 | Binary Search | 2 |
+| Divide and Conquer | 2 |
 | Math | 2 |
 | Prefix Sum | 2 |
 | Backtracking | 1 |
@@ -43,7 +44,6 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Bit Manipulation | 1 |
 | Boyer–Moore String-Search Algorithm | 1 |
 | Directed Acyclic Graph | 1 |
-| Divide and Conquer | 1 |
 | Floyd–Warshall Algorithm | 1 |
 | Greedy | 1 |
 | Knuth–Morris–Pratt Algorithm | 1 |
@@ -52,14 +52,17 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Tree | 1 |
 | Two Pointers | 1 |
 | Z Algorithm | 1 |
+| Bucket Sort | 1 |
+| Counting | 1 |
+| Quickselect | 1 |
 
 ## Progress
     
 | Platform | Problems Solved | 
 | :---------|----------------:|
 | gfg | 20 |
-| leetcode | 34 |
-| **Total** | **54** |
+| leetcode | 35 |
+| **Total** | **55** |
 
 ## Difficulty
     
@@ -67,7 +70,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 |:-----------|----------------|
 | Easy | 13 |
 | Hard | 3 |
-| Medium | 35 |
-| **Total** | **54** |
+| Medium | 36 |
+| **Total** | **55** |
 
 <!-- DSA-SYNC:STATS:END -->
