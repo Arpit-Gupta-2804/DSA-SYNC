@@ -1,16 +1,16 @@
 {
   "difficulty": {
-    "Easy": 9,
+    "Easy": 10,
     "Hard": 3,
     "Medium": 34
   },
   "languages": {
     "C++": 2,
-    "Java": 47
+    "Java": 48
   },
   "platforms": {
     "gfg": 18,
-    "leetcode": 31
+    "leetcode": 32
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -61,10 +61,11 @@
     "Leetcode/General/find-all-numbers-disappeared-in-an-array-ii.java",
     "GFG/Graph/minimum-spanning-tree.java",
     "GFG/Graph/minimum-spanning-tree-kruskal-s-algorithm.java",
-    "Leetcode/Two Pointers/find-the-index-of-the-first-occurrence-in-a-string.java"
+    "Leetcode/Two Pointers/find-the-index-of-the-first-occurrence-in-a-string.java",
+    "Leetcode/Hash Table/smallest-missing-multiple-of-k.java"
   ],
   "topics": {
-    "Array": 12,
+    "Array": 13,
     "Arrays": 3,
     "Backtracking": 1,
     "Bellman–Ford Algorithm": 1,
@@ -82,7 +83,7 @@
     "Graph": 11,
     "Graph Theory": 8,
     "Greedy": 1,
-    "Hash Table": 12,
+    "Hash Table": 13,
     "Heap (Priority Queue)": 3,
     "Knuth–Morris–Pratt Algorithm": 1,
     "Math": 2,
@@ -102,5 +103,5 @@
     "Union-Find": 3,
     "Z Algorithm": 1
   },
-  "totalSolved": 49
+  "totalSolved": 50
 }
