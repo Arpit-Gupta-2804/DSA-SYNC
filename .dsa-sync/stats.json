@@ -2,15 +2,15 @@
   "difficulty": {
     "Easy": 13,
     "Hard": 3,
-    "Medium": 34
+    "Medium": 35
   },
   "languages": {
     "C++": 2,
-    "Java": 51
+    "Java": 52
   },
   "platforms": {
     "gfg": 20,
-    "leetcode": 33
+    "leetcode": 34
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -65,10 +65,11 @@
     "Leetcode/Hash Table/smallest-missing-multiple-of-k.java",
     "GFG/Arrays/two-sum-pair-with-given-sum.java",
     "Leetcode/Hash Table/contains-duplicate.java",
-    "GFG/Strings/anagram.java"
+    "GFG/Strings/anagram.java",
+    "Leetcode/Hash Table/group-anagrams.java"
   ],
   "topics": {
-    "Array": 14,
+    "Array": 15,
     "Arrays": 4,
     "Backtracking": 1,
     "Bellman–Ford Algorithm": 1,
@@ -86,7 +87,7 @@
     "Graph": 11,
     "Graph Theory": 8,
     "Greedy": 1,
-    "Hash Table": 14,
+    "Hash Table": 15,
     "Heap (Priority Queue)": 3,
     "Knuth–Morris–Pratt Algorithm": 1,
     "Math": 2,
@@ -96,8 +97,8 @@
     "Shortest Path": 4,
     "Simulation": 1,
     "Sliding Window": 8,
-    "Sorting": 4,
-    "String": 8,
+    "Sorting": 5,
+    "String": 9,
     "String Matching": 1,
     "Strings": 3,
     "Topological Sort": 3,
@@ -106,5 +107,5 @@
     "Union-Find": 3,
     "Z Algorithm": 1
   },
-  "totalSolved": 53
+  "totalSolved": 54
 }
