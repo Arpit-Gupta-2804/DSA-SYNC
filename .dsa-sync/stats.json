@@ -2,15 +2,15 @@
   "difficulty": {
     "Easy": 13,
     "Hard": 3,
-    "Medium": 36
+    "Medium": 37
   },
   "languages": {
     "C++": 2,
-    "Java": 53
+    "Java": 54
   },
   "platforms": {
     "gfg": 20,
-    "leetcode": 35
+    "leetcode": 36
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -67,10 +67,11 @@
     "Leetcode/Hash Table/contains-duplicate.java",
     "GFG/Strings/anagram.java",
     "Leetcode/Hash Table/group-anagrams.java",
-    "Leetcode/Hash Table/top-k-frequent-elements.java"
+    "Leetcode/Hash Table/top-k-frequent-elements.java",
+    "Leetcode/Hash Table/subarray-sum-equals-k.java"
   ],
   "topics": {
-    "Array": 16,
+    "Array": 17,
     "Arrays": 4,
     "Backtracking": 1,
     "Bellman–Ford Algorithm": 1,
@@ -79,6 +80,8 @@
     "Bit Manipulation": 1,
     "Boyer–Moore String-Search Algorithm": 1,
     "Breadth-First Search": 11,
+    "Bucket Sort": 1,
+    "Counting": 1,
     "Depth-First Search": 7,
     "Dijkstra's Algorithm": 4,
     "Directed Acyclic Graph": 1,
@@ -88,13 +91,14 @@
     "Graph": 11,
     "Graph Theory": 8,
     "Greedy": 1,
-    "Hash Table": 16,
+    "Hash Table": 17,
     "Heap (Priority Queue)": 4,
     "Knuth–Morris–Pratt Algorithm": 1,
     "Math": 2,
     "Mathematical": 3,
     "Matrix": 3,
-    "Prefix Sum": 2,
+    "Prefix Sum": 3,
+    "Quickselect": 1,
     "Shortest Path": 4,
     "Simulation": 1,
     "Sliding Window": 8,
@@ -106,10 +110,7 @@
     "Tree": 1,
     "Two Pointers": 1,
     "Union-Find": 3,
-    "Z Algorithm": 1,
-    "Bucket Sort": 1,
-    "Counting": 1,
-    "Quickselect": 1
+    "Z Algorithm": 1
   },
-  "totalSolved": 55
+  "totalSolved": 56
 }
