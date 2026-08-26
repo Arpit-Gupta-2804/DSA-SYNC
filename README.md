@@ -9,14 +9,14 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Language | Problems Solved |
 |:---------|----------------:|
 | C++ | 2 |
-| Java | 53 |
+| Java | 54 |
 
 ## Topics
 
 | Topic | Problems Solved |
 | :------|----------------:|
-| Array | 16 |
-| Hash Table | 16 |
+| Array | 17 |
+| Hash Table | 17 |
 | Breadth-First Search | 11 |
 | Graph | 11 |
 | String | 9 |
@@ -31,6 +31,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Shortest Path | 4 |
 | Mathematical | 3 |
 | Matrix | 3 |
+| Prefix Sum | 3 |
 | Strings | 3 |
 | Topological Sort | 3 |
 | Union-Find | 3 |
@@ -38,31 +39,30 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Binary Search | 2 |
 | Divide and Conquer | 2 |
 | Math | 2 |
-| Prefix Sum | 2 |
 | Backtracking | 1 |
 | Bellman–Ford Algorithm | 1 |
 | Bit Manipulation | 1 |
 | Boyer–Moore String-Search Algorithm | 1 |
+| Bucket Sort | 1 |
+| Counting | 1 |
 | Directed Acyclic Graph | 1 |
 | Floyd–Warshall Algorithm | 1 |
 | Greedy | 1 |
 | Knuth–Morris–Pratt Algorithm | 1 |
+| Quickselect | 1 |
 | Simulation | 1 |
 | String Matching | 1 |
 | Tree | 1 |
 | Two Pointers | 1 |
 | Z Algorithm | 1 |
-| Bucket Sort | 1 |
-| Counting | 1 |
-| Quickselect | 1 |
 
 ## Progress
     
 | Platform | Problems Solved | 
 | :---------|----------------:|
 | gfg | 20 |
-| leetcode | 35 |
-| **Total** | **55** |
+| leetcode | 36 |
+| **Total** | **56** |
 
 ## Difficulty
     
@@ -70,7 +70,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 |:-----------|----------------|
 | Easy | 13 |
 | Hard | 3 |
-| Medium | 36 |
-| **Total** | **55** |
+| Medium | 37 |
+| **Total** | **56** |
 
 <!-- DSA-SYNC:STATS:END -->
