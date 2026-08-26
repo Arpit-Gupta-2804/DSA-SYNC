@@ -9,14 +9,14 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Language | Problems Solved |
 |:---------|----------------:|
 | C++ | 2 |
-| Java | 54 |
+| Java | 55 |
 
 ## Topics
 
 | Topic | Problems Solved |
 | :------|----------------:|
-| Array | 17 |
-| Hash Table | 17 |
+| Array | 18 |
+| Hash Table | 18 |
 | Breadth-First Search | 11 |
 | Graph | 11 |
 | String | 9 |
@@ -29,12 +29,12 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Dijkstra's Algorithm | 4 |
 | Heap (Priority Queue) | 4 |
 | Shortest Path | 4 |
+| Union-Find | 4 |
 | Mathematical | 3 |
 | Matrix | 3 |
 | Prefix Sum | 3 |
 | Strings | 3 |
 | Topological Sort | 3 |
-| Union-Find | 3 |
 | Bidirectional Search | 2 |
 | Binary Search | 2 |
 | Divide and Conquer | 2 |
@@ -61,8 +61,8 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Platform | Problems Solved | 
 | :---------|----------------:|
 | gfg | 20 |
-| leetcode | 36 |
-| **Total** | **56** |
+| leetcode | 37 |
+| **Total** | **57** |
 
 ## Difficulty
     
@@ -70,7 +70,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 |:-----------|----------------|
 | Easy | 13 |
 | Hard | 3 |
-| Medium | 37 |
-| **Total** | **56** |
+| Medium | 38 |
+| **Total** | **57** |
 
 <!-- DSA-SYNC:STATS:END -->
