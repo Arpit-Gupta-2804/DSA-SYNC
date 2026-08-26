@@ -2,15 +2,15 @@
   "difficulty": {
     "Easy": 13,
     "Hard": 3,
-    "Medium": 40
+    "Medium": 41
   },
   "languages": {
     "C++": 2,
-    "Java": 57
+    "Java": 58
   },
   "platforms": {
     "gfg": 20,
-    "leetcode": 39
+    "leetcode": 40
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -71,10 +71,11 @@
     "Leetcode/Hash Table/subarray-sum-equals-k.java",
     "Leetcode/Hash Table/longest-consecutive-sequence.java",
     "Leetcode/Array/product-of-array-except-self.java",
-    "Leetcode/Two Pointers/container-with-most-water.java"
+    "Leetcode/Two Pointers/container-with-most-water.java",
+    "Leetcode/Two Pointers/3sum.java"
   ],
   "topics": {
-    "Array": 20,
+    "Array": 21,
     "Arrays": 4,
     "Backtracking": 1,
     "Bellman–Ford Algorithm": 1,
@@ -105,15 +106,15 @@
     "Shortest Path": 4,
     "Simulation": 1,
     "Sliding Window": 8,
-    "Sorting": 6,
+    "Sorting": 7,
     "String": 9,
     "String Matching": 1,
     "Strings": 3,
     "Topological Sort": 3,
     "Tree": 1,
-    "Two Pointers": 2,
+    "Two Pointers": 3,
     "Union-Find": 4,
     "Z Algorithm": 1
   },
-  "totalSolved": 59
+  "totalSolved": 60
 }
