@@ -2,15 +2,15 @@
   "difficulty": {
     "Easy": 13,
     "Hard": 3,
-    "Medium": 37
+    "Medium": 38
   },
   "languages": {
     "C++": 2,
-    "Java": 54
+    "Java": 55
   },
   "platforms": {
     "gfg": 20,
-    "leetcode": 36
+    "leetcode": 37
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -68,10 +68,11 @@
     "GFG/Strings/anagram.java",
     "Leetcode/Hash Table/group-anagrams.java",
     "Leetcode/Hash Table/top-k-frequent-elements.java",
-    "Leetcode/Hash Table/subarray-sum-equals-k.java"
+    "Leetcode/Hash Table/subarray-sum-equals-k.java",
+    "Leetcode/Hash Table/longest-consecutive-sequence.java"
   ],
   "topics": {
-    "Array": 17,
+    "Array": 18,
     "Arrays": 4,
     "Backtracking": 1,
     "Bellman–Ford Algorithm": 1,
@@ -91,7 +92,7 @@
     "Graph": 11,
     "Graph Theory": 8,
     "Greedy": 1,
-    "Hash Table": 17,
+    "Hash Table": 18,
     "Heap (Priority Queue)": 4,
     "Knuth–Morris–Pratt Algorithm": 1,
     "Math": 2,
@@ -109,8 +110,8 @@
     "Topological Sort": 3,
     "Tree": 1,
     "Two Pointers": 1,
-    "Union-Find": 3,
+    "Union-Find": 4,
     "Z Algorithm": 1
   },
-  "totalSolved": 56
+  "totalSolved": 57
 }
