@@ -2,15 +2,15 @@
   "difficulty": {
     "Easy": 13,
     "Hard": 3,
-    "Medium": 41
+    "Medium": 42
   },
   "languages": {
     "C++": 2,
-    "Java": 58
+    "Java": 59
   },
   "platforms": {
     "gfg": 20,
-    "leetcode": 40
+    "leetcode": 41
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -72,10 +72,11 @@
     "Leetcode/Hash Table/longest-consecutive-sequence.java",
     "Leetcode/Array/product-of-array-except-self.java",
     "Leetcode/Two Pointers/container-with-most-water.java",
-    "Leetcode/Two Pointers/3sum.java"
+    "Leetcode/Two Pointers/3sum.java",
+    "Leetcode/Sliding Window/binary-subarrays-with-sum.java"
   ],
   "topics": {
-    "Array": 21,
+    "Array": 22,
     "Arrays": 4,
     "Backtracking": 1,
     "Bellman–Ford Algorithm": 1,
@@ -95,17 +96,17 @@
     "Graph": 11,
     "Graph Theory": 8,
     "Greedy": 2,
-    "Hash Table": 18,
+    "Hash Table": 19,
     "Heap (Priority Queue)": 4,
     "Knuth–Morris–Pratt Algorithm": 1,
     "Math": 2,
     "Mathematical": 3,
     "Matrix": 3,
-    "Prefix Sum": 4,
+    "Prefix Sum": 5,
     "Quickselect": 1,
     "Shortest Path": 4,
     "Simulation": 1,
-    "Sliding Window": 8,
+    "Sliding Window": 9,
     "Sorting": 7,
     "String": 9,
     "String Matching": 1,
@@ -116,5 +117,5 @@
     "Union-Find": 4,
     "Z Algorithm": 1
   },
-  "totalSolved": 60
+  "totalSolved": 61
 }
