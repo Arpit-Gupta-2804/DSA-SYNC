@@ -1,16 +1,16 @@
 {
   "difficulty": {
     "Easy": 13,
-    "Hard": 3,
+    "Hard": 4,
     "Medium": 44
   },
   "languages": {
     "C++": 2,
-    "Java": 61
+    "Java": 62
   },
   "platforms": {
     "gfg": 20,
-    "leetcode": 43
+    "leetcode": 44
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -75,10 +75,11 @@
     "Leetcode/Two Pointers/3sum.java",
     "Leetcode/Sliding Window/binary-subarrays-with-sum.java",
     "Leetcode/Array/removing-minimum-and-maximum-from-array.java",
-    "Leetcode/Sliding Window/count-number-of-nice-subarrays.java"
+    "Leetcode/Sliding Window/count-number-of-nice-subarrays.java",
+    "Leetcode/Sliding Window/subarrays-with-k-different-integers.java"
   ],
   "topics": {
-    "Array": 24,
+    "Array": 25,
     "Arrays": 4,
     "Backtracking": 1,
     "Bellman–Ford Algorithm": 1,
@@ -88,7 +89,7 @@
     "Boyer–Moore String-Search Algorithm": 1,
     "Breadth-First Search": 11,
     "Bucket Sort": 1,
-    "Counting": 1,
+    "Counting": 2,
     "Depth-First Search": 7,
     "Dijkstra's Algorithm": 4,
     "Directed Acyclic Graph": 1,
@@ -98,7 +99,7 @@
     "Graph": 11,
     "Graph Theory": 8,
     "Greedy": 3,
-    "Hash Table": 20,
+    "Hash Table": 21,
     "Heap (Priority Queue)": 4,
     "Knuth–Morris–Pratt Algorithm": 1,
     "Math": 3,
@@ -108,7 +109,7 @@
     "Quickselect": 1,
     "Shortest Path": 4,
     "Simulation": 1,
-    "Sliding Window": 10,
+    "Sliding Window": 11,
     "Sorting": 7,
     "String": 9,
     "String Matching": 1,
@@ -119,5 +120,5 @@
     "Union-Find": 4,
     "Z Algorithm": 1
   },
-  "totalSolved": 63
+  "totalSolved": 64
 }
