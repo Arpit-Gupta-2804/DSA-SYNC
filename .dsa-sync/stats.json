@@ -1,16 +1,16 @@
 {
   "difficulty": {
     "Easy": 13,
-    "Hard": 4,
+    "Hard": 5,
     "Medium": 44
   },
   "languages": {
     "C++": 2,
-    "Java": 62
+    "Java": 63
   },
   "platforms": {
     "gfg": 20,
-    "leetcode": 44
+    "leetcode": 45
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -76,7 +76,8 @@
     "Leetcode/Sliding Window/binary-subarrays-with-sum.java",
     "Leetcode/Array/removing-minimum-and-maximum-from-array.java",
     "Leetcode/Sliding Window/count-number-of-nice-subarrays.java",
-    "Leetcode/Sliding Window/subarrays-with-k-different-integers.java"
+    "Leetcode/Sliding Window/subarrays-with-k-different-integers.java",
+    "Leetcode/Sliding Window/minimum-window-substring.java"
   ],
   "topics": {
     "Array": 25,
@@ -99,7 +100,7 @@
     "Graph": 11,
     "Graph Theory": 8,
     "Greedy": 3,
-    "Hash Table": 21,
+    "Hash Table": 22,
     "Heap (Priority Queue)": 4,
     "Knuth–Morris–Pratt Algorithm": 1,
     "Math": 3,
@@ -109,9 +110,9 @@
     "Quickselect": 1,
     "Shortest Path": 4,
     "Simulation": 1,
-    "Sliding Window": 11,
+    "Sliding Window": 12,
     "Sorting": 7,
-    "String": 9,
+    "String": 10,
     "String Matching": 1,
     "Strings": 3,
     "Topological Sort": 3,
@@ -120,5 +121,5 @@
     "Union-Find": 4,
     "Z Algorithm": 1
   },
-  "totalSolved": 64
+  "totalSolved": 65
 }
