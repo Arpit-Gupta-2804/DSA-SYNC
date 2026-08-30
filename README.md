@@ -9,18 +9,18 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Language | Problems Solved |
 |:---------|----------------:|
 | C++ | 2 |
-| Java | 62 |
+| Java | 63 |
 
 ## Topics
 
 | Topic | Problems Solved |
 | :------|----------------:|
 | Array | 25 |
-| Hash Table | 21 |
+| Hash Table | 22 |
+| Sliding Window | 12 |
 | Breadth-First Search | 11 |
 | Graph | 11 |
-| Sliding Window | 11 |
-| String | 9 |
+| String | 10 |
 | Graph Theory | 8 |
 | Depth-First Search | 7 |
 | Sorting | 7 |
@@ -61,16 +61,16 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Platform | Problems Solved | 
 | :---------|----------------:|
 | gfg | 20 |
-| leetcode | 44 |
-| **Total** | **64** |
+| leetcode | 45 |
+| **Total** | **65** |
 
 ## Difficulty
     
 | Difficulty | Problems Solved |
 |:-----------|----------------|
 | Easy | 13 |
-| Hard | 4 |
+| Hard | 5 |
 | Medium | 44 |
-| **Total** | **64** |
+| **Total** | **65** |
 
 <!-- DSA-SYNC:STATS:END -->
