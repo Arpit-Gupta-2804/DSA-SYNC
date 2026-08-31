@@ -2,15 +2,15 @@
   "difficulty": {
     "Easy": 13,
     "Hard": 5,
-    "Medium": 45
+    "Medium": 46
   },
   "languages": {
     "C++": 2,
-    "Java": 64
+    "Java": 65
   },
   "platforms": {
     "gfg": 20,
-    "leetcode": 46
+    "leetcode": 47
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -78,7 +78,8 @@
     "Leetcode/Sliding Window/count-number-of-nice-subarrays.java",
     "Leetcode/Sliding Window/subarrays-with-k-different-integers.java",
     "Leetcode/Sliding Window/minimum-window-substring.java",
-    "Leetcode/Graph Theory/number-of-operations-to-make-network-connected.java"
+    "Leetcode/Graph Theory/number-of-operations-to-make-network-connected.java",
+    "Leetcode/Linked List/find-the-minimum-and-maximum-number-of-nodes-between-critical-points.java"
   ],
   "topics": {
     "Array": 25,
@@ -120,7 +121,8 @@
     "Tree": 1,
     "Two Pointers": 3,
     "Union-Find": 5,
-    "Z Algorithm": 1
+    "Z Algorithm": 1,
+    "Linked List": 1
   },
-  "totalSolved": 66
+  "totalSolved": 67
 }
