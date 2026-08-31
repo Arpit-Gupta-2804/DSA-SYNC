@@ -2,15 +2,15 @@
   "difficulty": {
     "Easy": 13,
     "Hard": 5,
-    "Medium": 44
+    "Medium": 45
   },
   "languages": {
     "C++": 2,
-    "Java": 63
+    "Java": 64
   },
   "platforms": {
     "gfg": 20,
-    "leetcode": 45
+    "leetcode": 46
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -77,7 +77,8 @@
     "Leetcode/Array/removing-minimum-and-maximum-from-array.java",
     "Leetcode/Sliding Window/count-number-of-nice-subarrays.java",
     "Leetcode/Sliding Window/subarrays-with-k-different-integers.java",
-    "Leetcode/Sliding Window/minimum-window-substring.java"
+    "Leetcode/Sliding Window/minimum-window-substring.java",
+    "Leetcode/Graph Theory/number-of-operations-to-make-network-connected.java"
   ],
   "topics": {
     "Array": 25,
@@ -88,17 +89,17 @@
     "Binary Search": 2,
     "Bit Manipulation": 1,
     "Boyer–Moore String-Search Algorithm": 1,
-    "Breadth-First Search": 11,
+    "Breadth-First Search": 12,
     "Bucket Sort": 1,
     "Counting": 2,
-    "Depth-First Search": 7,
+    "Depth-First Search": 8,
     "Dijkstra's Algorithm": 4,
     "Directed Acyclic Graph": 1,
     "Divide and Conquer": 2,
     "Dynamic Programming": 6,
     "Floyd–Warshall Algorithm": 1,
     "Graph": 11,
-    "Graph Theory": 8,
+    "Graph Theory": 9,
     "Greedy": 3,
     "Hash Table": 22,
     "Heap (Priority Queue)": 4,
@@ -118,8 +119,8 @@
     "Topological Sort": 3,
     "Tree": 1,
     "Two Pointers": 3,
-    "Union-Find": 4,
+    "Union-Find": 5,
     "Z Algorithm": 1
   },
-  "totalSolved": 65
+  "totalSolved": 66
 }
