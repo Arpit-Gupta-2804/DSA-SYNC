@@ -9,24 +9,24 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Language | Problems Solved |
 |:---------|----------------:|
 | C++ | 2 |
-| Java | 65 |
+| Java | 66 |
 
 ## Topics
 
 | Topic | Problems Solved |
 | :------|----------------:|
-| Array | 25 |
-| Hash Table | 22 |
-| Breadth-First Search | 12 |
+| Array | 26 |
+| Hash Table | 23 |
+| Breadth-First Search | 13 |
 | Sliding Window | 12 |
 | Graph | 11 |
-| String | 10 |
+| String | 11 |
+| Depth-First Search | 9 |
 | Graph Theory | 9 |
-| Depth-First Search | 8 |
-| Sorting | 7 |
+| Sorting | 8 |
 | Dynamic Programming | 6 |
 | Prefix Sum | 6 |
-| Union-Find | 5 |
+| Union-Find | 6 |
 | Arrays | 4 |
 | Dijkstra's Algorithm | 4 |
 | Heap (Priority Queue) | 4 |
@@ -50,20 +50,20 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Directed Acyclic Graph | 1 |
 | Floyd–Warshall Algorithm | 1 |
 | Knuth–Morris–Pratt Algorithm | 1 |
+| Linked List | 1 |
 | Quickselect | 1 |
 | Simulation | 1 |
 | String Matching | 1 |
 | Tree | 1 |
 | Z Algorithm | 1 |
-| Linked List | 1 |
 
 ## Progress
     
 | Platform | Problems Solved | 
 | :---------|----------------:|
 | gfg | 20 |
-| leetcode | 47 |
-| **Total** | **67** |
+| leetcode | 48 |
+| **Total** | **68** |
 
 ## Difficulty
     
@@ -71,7 +71,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 |:-----------|----------------|
 | Easy | 13 |
 | Hard | 5 |
-| Medium | 46 |
-| **Total** | **67** |
+| Medium | 47 |
+| **Total** | **68** |
 
 <!-- DSA-SYNC:STATS:END -->
