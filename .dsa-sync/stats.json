@@ -2,15 +2,15 @@
   "difficulty": {
     "Easy": 13,
     "Hard": 5,
-    "Medium": 46
+    "Medium": 47
   },
   "languages": {
     "C++": 2,
-    "Java": 65
+    "Java": 66
   },
   "platforms": {
     "gfg": 20,
-    "leetcode": 47
+    "leetcode": 48
   },
   "solvedProblems": [
     "Leetcode/Hash Table/valid-anagram.java",
@@ -79,10 +79,11 @@
     "Leetcode/Sliding Window/subarrays-with-k-different-integers.java",
     "Leetcode/Sliding Window/minimum-window-substring.java",
     "Leetcode/Graph Theory/number-of-operations-to-make-network-connected.java",
-    "Leetcode/Linked List/find-the-minimum-and-maximum-number-of-nodes-between-critical-points.java"
+    "Leetcode/Linked List/find-the-minimum-and-maximum-number-of-nodes-between-critical-points.java",
+    "Leetcode/Depth-First Search/accounts-merge.java"
   ],
   "topics": {
-    "Array": 25,
+    "Array": 26,
     "Arrays": 4,
     "Backtracking": 1,
     "Bellman–Ford Algorithm": 1,
@@ -90,10 +91,10 @@
     "Binary Search": 2,
     "Bit Manipulation": 1,
     "Boyer–Moore String-Search Algorithm": 1,
-    "Breadth-First Search": 12,
+    "Breadth-First Search": 13,
     "Bucket Sort": 1,
     "Counting": 2,
-    "Depth-First Search": 8,
+    "Depth-First Search": 9,
     "Dijkstra's Algorithm": 4,
     "Directed Acyclic Graph": 1,
     "Divide and Conquer": 2,
@@ -102,9 +103,10 @@
     "Graph": 11,
     "Graph Theory": 9,
     "Greedy": 3,
-    "Hash Table": 22,
+    "Hash Table": 23,
     "Heap (Priority Queue)": 4,
     "Knuth–Morris–Pratt Algorithm": 1,
+    "Linked List": 1,
     "Math": 3,
     "Mathematical": 3,
     "Matrix": 3,
@@ -113,16 +115,15 @@
     "Shortest Path": 4,
     "Simulation": 1,
     "Sliding Window": 12,
-    "Sorting": 7,
-    "String": 10,
+    "Sorting": 8,
+    "String": 11,
     "String Matching": 1,
     "Strings": 3,
     "Topological Sort": 3,
     "Tree": 1,
     "Two Pointers": 3,
-    "Union-Find": 5,
-    "Z Algorithm": 1,
-    "Linked List": 1
+    "Union-Find": 6,
+    "Z Algorithm": 1
   },
-  "totalSolved": 67
+  "totalSolved": 68
 }
