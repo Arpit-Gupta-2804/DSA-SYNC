@@ -1,21 +1,21 @@
 {
-  "solvedProblems": [
-    "Leetcode/General/count-commas-in-range.java"
-  ],
-  "totalSolved": 1,
-  "platforms": {
-    "leetcode": 1,
-    "gfg": 0
-  },
   "difficulty": {
     "Easy": 1,
-    "Medium": 0,
-    "Hard": 0
+    "Hard": 0,
+    "Medium": 0
   },
   "languages": {
     "Java": 1
   },
+  "platforms": {
+    "gfg": 0,
+    "leetcode": 1
+  },
+  "solvedProblems": [
+    "Leetcode/General/count-commas-in-range.java"
+  ],
   "topics": {
     "Math": 1
-  }
+  },
+  "totalSolved": 1
 }
