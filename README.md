@@ -20,8 +20,8 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
     
 | Platform | Problems Solved | 
 | :---------|----------------:|
-| leetcode | 1 |
 | gfg | 0 |
+| leetcode | 1 |
 | **Total** | **1** |
 
 ## Difficulty
@@ -29,8 +29,8 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Difficulty | Problems Solved |
 |:-----------|----------------|
 | Easy | 1 |
-| Medium | 0 |
 | Hard | 0 |
+| Medium | 0 |
 | **Total** | **1** |
 
 <!-- DSA-SYNC:STATS:END -->
