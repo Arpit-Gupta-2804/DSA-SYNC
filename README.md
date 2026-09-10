@@ -8,29 +8,31 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 
 | Language | Problems Solved |
 |:---------|----------------:|
-| Java | 1 |
+| Java | 2 |
 
 ## Topics
 
 | Topic | Problems Solved |
 | :------|----------------:|
-| Math | 1 |
+| Math | 2 |
+| Dynamic Programming | 1 |
+| Memoization | 1 |
 
 ## Progress
     
 | Platform | Problems Solved | 
 | :---------|----------------:|
 | gfg | 0 |
-| leetcode | 1 |
-| **Total** | **1** |
+| leetcode | 2 |
+| **Total** | **2** |
 
 ## Difficulty
     
 | Difficulty | Problems Solved |
 |:-----------|----------------|
-| Easy | 1 |
+| Easy | 2 |
 | Hard | 0 |
 | Medium | 0 |
-| **Total** | **1** |
+| **Total** | **2** |
 
 <!-- DSA-SYNC:STATS:END -->
