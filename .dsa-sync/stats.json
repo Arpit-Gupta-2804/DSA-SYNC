@@ -1,21 +1,24 @@
 {
   "difficulty": {
-    "Easy": 1,
+    "Easy": 2,
     "Hard": 0,
     "Medium": 0
   },
   "languages": {
-    "Java": 1
+    "Java": 2
   },
   "platforms": {
     "gfg": 0,
-    "leetcode": 1
+    "leetcode": 2
   },
   "solvedProblems": [
-    "Leetcode/General/count-commas-in-range.java"
+    "Leetcode/General/count-commas-in-range.java",
+    "Leetcode/Dynamic Programming/climbing-stairs.java"
   ],
   "topics": {
-    "Math": 1
+    "Math": 2,
+    "Dynamic Programming": 1,
+    "Memoization": 1
   },
-  "totalSolved": 1
+  "totalSolved": 2
 }
