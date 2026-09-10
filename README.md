@@ -16,8 +16,8 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | :------|----------------:|
 | Dynamic Programming | 2 |
 | Math | 2 |
-| Memoization | 1 |
 | Arrays | 1 |
+| Memoization | 1 |
 
 ## Progress
     
