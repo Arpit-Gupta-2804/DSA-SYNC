@@ -17,10 +17,10 @@
     "GFG/Dynamic Programming/frog-jump.java"
   ],
   "topics": {
+    "Arrays": 1,
     "Dynamic Programming": 2,
     "Math": 2,
-    "Memoization": 1,
-    "Arrays": 1
+    "Memoization": 1
   },
   "totalSolved": 3
 }
