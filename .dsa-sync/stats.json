@@ -2,13 +2,13 @@
   "difficulty": {
     "Easy": 4,
     "Hard": 0,
-    "Medium": 1
+    "Medium": 2
   },
   "languages": {
-    "Java": 5
+    "Java": 6
   },
   "platforms": {
-    "gfg": 1,
+    "gfg": 2,
     "leetcode": 4
   },
   "solvedProblems": [
@@ -16,7 +16,8 @@
     "Leetcode/Dynamic Programming/climbing-stairs.java",
     "GFG/Dynamic Programming/frog-jump.java",
     "Leetcode/Two Pointers/assign-cookies.java",
-    "Leetcode/Array/lemonade-change.java"
+    "Leetcode/Array/lemonade-change.java",
+    "GFG/Other/shortest-job-first.java"
   ],
   "topics": {
     "Array": 2,
@@ -29,5 +30,5 @@
     "Sorting": 1,
     "Two Pointers": 1
   },
-  "totalSolved": 5
+  "totalSolved": 6
 }
