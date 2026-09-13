@@ -1,32 +1,33 @@
 {
   "difficulty": {
-    "Easy": 3,
+    "Easy": 4,
     "Hard": 0,
     "Medium": 1
   },
   "languages": {
-    "Java": 4
+    "Java": 5
   },
   "platforms": {
     "gfg": 1,
-    "leetcode": 3
+    "leetcode": 4
   },
   "solvedProblems": [
     "Leetcode/General/count-commas-in-range.java",
     "Leetcode/Dynamic Programming/climbing-stairs.java",
     "GFG/Dynamic Programming/frog-jump.java",
-    "Leetcode/Two Pointers/assign-cookies.java"
+    "Leetcode/Two Pointers/assign-cookies.java",
+    "Leetcode/Array/lemonade-change.java"
   ],
   "topics": {
+    "Array": 2,
     "Arrays": 1,
     "Dynamic Programming": 2,
+    "Greedy": 2,
     "Math": 2,
     "Memoization": 1,
-    "Array": 1,
-    "Two Pointers": 1,
-    "Greedy": 1,
+    "Quicksort": 1,
     "Sorting": 1,
-    "Quicksort": 1
+    "Two Pointers": 1
   },
-  "totalSolved": 4
+  "totalSolved": 5
 }
